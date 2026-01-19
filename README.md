@@ -32,7 +32,7 @@ A minimal weather app built with Flutter using an AI-first development workflow.
 ### 1) Clone Repository
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/yash1711v/BrewWheather.git
 cd glasscast
 flutter pub get
 ```
